@@ -7,7 +7,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-from utils import loggers
+from xinfa_web.utils import loggers
 
 # 创建logger实例
 log = loggers.Logger.getLogger()
