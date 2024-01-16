@@ -1,0 +1,41 @@
+2023-11-06 17:00:51,952 - file_logs - INFO - 元素定位成功 ,by: id , value :userName  
+2023-11-06 17:00:51,952 - file_logs - INFO - 清除输入框 
+2023-11-06 17:00:52,145 - file_logs - INFO - 输入的值是：test72 
+2023-11-06 17:00:52,157 - file_logs - INFO - 元素定位成功 ,by: id , value :password  
+2023-11-06 17:00:52,157 - file_logs - INFO - 清除输入框 
+2023-11-06 17:00:52,245 - file_logs - INFO - 输入的值是：BanK2131 
+2023-11-06 17:00:52,256 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@id="rc-tabs-0-panel-account"]/div[3]/div[2]/img  
+2023-11-06 17:00:52,563 - file_logs - INFO - 元素定位成功 ,by: id , value :code  
+2023-11-06 17:00:52,563 - file_logs - INFO - 清除输入框 
+2023-11-06 17:00:52,621 - file_logs - INFO - 输入的值是：pugd 
+2023-11-06 17:00:54,636 - file_logs - INFO - 强制睡眠等待 2 秒 
+2023-11-06 17:00:54,665 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@type="submit"]  
+2023-11-06 17:00:54,825 - file_logs - INFO - 这个元素登 录已经被点击. 
+2023-11-06 17:00:56,835 - file_logs - INFO - 强制睡眠等待 2 秒 
+2023-11-06 17:00:56,846 - file_logs - INFO - 元素定位成功 ,by id , value :logo  
+2023-11-06 17:00:56,846 - file_logs - ERROR - 元素不存在 
+2023-11-06 17:00:56,846 - file_logs - INFO - 没有查询到信息科技管理系统信息，登录失败 
+2023-11-06 17:00:56,859 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@class="ant-message-notice-content"]/div  
+2023-11-06 17:00:56,869 - file_logs - INFO - 账号密码错误，退出 
+2023-11-06 17:01:00,221 - file_logs - INFO - 关闭浏览器 
+2023-11-06 17:01:01,236 - file_logs - INFO - 强制睡眠等待 1 秒 
+2023-11-06 17:02:17,109 - file_logs - ERROR - 元素不存在 
+2023-11-06 17:03:40,211 - file_logs - INFO - 元素定位成功 ,by: id , value :userName  
+2023-11-06 17:03:40,211 - file_logs - INFO - 清除输入框 
+2023-11-06 17:03:40,357 - file_logs - INFO - 输入的值是：test72 
+2023-11-06 17:03:40,367 - file_logs - INFO - 元素定位成功 ,by: id , value :password  
+2023-11-06 17:03:40,367 - file_logs - INFO - 清除输入框 
+2023-11-06 17:03:40,451 - file_logs - INFO - 输入的值是：BanK2131 
+2023-11-06 17:03:40,464 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@id="rc-tabs-0-panel-account"]/div[3]/div[2]/img  
+2023-11-06 17:03:40,808 - file_logs - INFO - 元素定位成功 ,by: id , value :code  
+2023-11-06 17:03:40,808 - file_logs - INFO - 清除输入框 
+2023-11-06 17:03:40,872 - file_logs - INFO - 输入的值是：FLds 
+2023-11-06 17:03:42,880 - file_logs - INFO - 强制睡眠等待 2 秒 
+2023-11-06 17:03:42,891 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@type="submit"]  
+2023-11-06 17:03:42,993 - file_logs - INFO - 这个元素登 录已经被点击. 
+2023-11-06 17:03:45,004 - file_logs - INFO - 强制睡眠等待 2 秒 
+2023-11-06 17:03:45,015 - file_logs - INFO - 元素定位成功 ,by id , value :logo  
+2023-11-06 17:03:45,015 - file_logs - ERROR - 元素不存在 
+2023-11-06 17:03:45,015 - file_logs - INFO - 没有查询到信息科技管理系统信息，登录失败 
+2023-11-06 17:03:45,025 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@class="ant-message-notice-content"]/div  
+2023-11-06 17:03:45,034 - file_logs - INFO - 账号密码错误，退出 

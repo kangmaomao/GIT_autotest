@@ -1,0 +1,161 @@
+2024-01-13 17:43:57,080 - file_logs - INFO - 元素定位成功 ,by: id , value :userName  
+2024-01-13 17:43:57,080 - file_logs - INFO - 清除输入框 
+2024-01-13 17:43:57,213 - file_logs - INFO - 输入的值是：admin 
+2024-01-13 17:43:57,225 - file_logs - INFO - 元素定位成功 ,by: id , value :password  
+2024-01-13 17:43:57,225 - file_logs - INFO - 清除输入框 
+2024-01-13 17:43:57,299 - file_logs - INFO - 输入的值是：BanK2131 
+2024-01-13 17:43:57,311 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@id="rc-tabs-0-panel-account"]/div[3]/div[2]/img  
+2024-01-13 17:43:57,759 - file_logs - INFO - 元素定位成功 ,by: id , value :code  
+2024-01-13 17:43:57,759 - file_logs - INFO - 清除输入框 
+2024-01-13 17:43:57,813 - file_logs - INFO - 输入的值是：tunm 
+2024-01-13 17:43:59,815 - file_logs - INFO - 强制睡眠等待 2 秒 
+2024-01-13 17:43:59,825 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@type="submit"]  
+2024-01-13 17:43:59,901 - file_logs - INFO - 这个元素登 录已经被点击. 
+2024-01-13 17:44:01,913 - file_logs - INFO - 强制睡眠等待 2 秒 
+2024-01-13 17:44:02,001 - file_logs - INFO - 元素定位成功 ,by id , value :logo  
+2024-01-13 17:44:02,001 - file_logs - INFO - 元素存在 
+2024-01-13 17:44:02,001 - file_logs - INFO - 查询到信息科技管理系统信息，登录成功 
+2024-01-13 17:44:07,141 - file_logs - INFO - 强制睡眠等待 5 秒 
+2024-01-13 17:44:07,150 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@id="root"]/div/section/aside/div/ul/li[4]  
+2024-01-13 17:44:07,217 - file_logs - INFO - 这个元素软件集成已经被点击. 
+2024-01-13 17:44:09,232 - file_logs - INFO - 强制睡眠等待 2 秒 
+2024-01-13 17:44:14,234 - file_logs - INFO - 强制睡眠等待 5 秒 
+2024-01-13 17:44:14,245 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@class="ant-tabs-tabpane ant-tabs-tabpane-active"]/div/div[2]/div/div[1]/div/div[1]/div/div[2]/button  
+2024-01-13 17:44:16,577 - file_logs - INFO - 强制睡眠等待 2 秒 
+2024-01-13 17:44:21,584 - file_logs - INFO - 强制睡眠等待 5 秒 
+2024-01-13 17:44:21,595 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@class="ant-select-selection-item"]  
+2024-01-13 17:46:54,904 - file_logs - INFO - 元素定位成功 ,by: id , value :userName  
+2024-01-13 17:46:54,905 - file_logs - INFO - 清除输入框 
+2024-01-13 17:46:55,037 - file_logs - INFO - 输入的值是：admin 
+2024-01-13 17:46:55,048 - file_logs - INFO - 元素定位成功 ,by: id , value :password  
+2024-01-13 17:46:55,049 - file_logs - INFO - 清除输入框 
+2024-01-13 17:46:55,118 - file_logs - INFO - 输入的值是：BanK2131 
+2024-01-13 17:46:55,129 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@id="rc-tabs-0-panel-account"]/div[3]/div[2]/img  
+2024-01-13 17:46:55,463 - file_logs - INFO - 元素定位成功 ,by: id , value :code  
+2024-01-13 17:46:55,464 - file_logs - INFO - 清除输入框 
+2024-01-13 17:46:55,527 - file_logs - INFO - 输入的值是：nmhd 
+2024-01-13 17:46:57,536 - file_logs - INFO - 强制睡眠等待 2 秒 
+2024-01-13 17:46:57,547 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@type="submit"]  
+2024-01-13 17:46:57,622 - file_logs - INFO - 这个元素登 录已经被点击. 
+2024-01-13 17:46:59,630 - file_logs - INFO - 强制睡眠等待 2 秒 
+2024-01-13 17:46:59,640 - file_logs - INFO - 元素定位成功 ,by id , value :logo  
+2024-01-13 17:46:59,640 - file_logs - INFO - 元素存在 
+2024-01-13 17:46:59,640 - file_logs - INFO - 查询到信息科技管理系统信息，登录成功 
+2024-01-13 17:47:04,657 - file_logs - INFO - 强制睡眠等待 5 秒 
+2024-01-13 17:47:04,669 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@id="root"]/div/section/aside/div/ul/li[4]  
+2024-01-13 17:47:04,738 - file_logs - INFO - 这个元素软件集成已经被点击. 
+2024-01-13 17:47:06,749 - file_logs - INFO - 强制睡眠等待 2 秒 
+2024-01-13 17:47:11,763 - file_logs - INFO - 强制睡眠等待 5 秒 
+2024-01-13 17:47:11,774 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@class="ant-tabs-tabpane ant-tabs-tabpane-active"]/div/div[2]/div/div[1]/div/div[1]/div/div[2]/button  
+2024-01-13 17:47:14,104 - file_logs - INFO - 强制睡眠等待 2 秒 
+2024-01-13 17:47:19,115 - file_logs - INFO - 强制睡眠等待 5 秒 
+2024-01-13 17:47:19,125 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@class="ant-select-selection-item"]  
+2024-01-13 17:47:19,190 - file_logs - INFO - 这个元素轮播已经被点击. 
+2024-01-13 17:47:19,198 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@class="ant-select-selection-item"]  
+2024-01-13 17:52:59,007 - file_logs - INFO - 元素定位成功 ,by: id , value :userName  
+2024-01-13 17:52:59,009 - file_logs - INFO - 清除输入框 
+2024-01-13 17:52:59,128 - file_logs - INFO - 输入的值是：admin 
+2024-01-13 17:52:59,140 - file_logs - INFO - 元素定位成功 ,by: id , value :password  
+2024-01-13 17:52:59,140 - file_logs - INFO - 清除输入框 
+2024-01-13 17:52:59,211 - file_logs - INFO - 输入的值是：BanK2131 
+2024-01-13 17:52:59,223 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@id="rc-tabs-0-panel-account"]/div[3]/div[2]/img  
+2024-01-13 17:52:59,493 - file_logs - INFO - 元素定位成功 ,by: id , value :code  
+2024-01-13 17:52:59,493 - file_logs - INFO - 清除输入框 
+2024-01-13 17:52:59,547 - file_logs - INFO - 输入的值是：dxmx 
+2024-01-13 17:53:01,562 - file_logs - INFO - 强制睡眠等待 2 秒 
+2024-01-13 17:53:01,573 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@type="submit"]  
+2024-01-13 17:53:01,650 - file_logs - INFO - 这个元素登 录已经被点击. 
+2024-01-13 17:53:03,651 - file_logs - INFO - 强制睡眠等待 2 秒 
+2024-01-13 17:53:03,662 - file_logs - INFO - 元素定位成功 ,by id , value :logo  
+2024-01-13 17:53:03,662 - file_logs - INFO - 元素存在 
+2024-01-13 17:53:03,662 - file_logs - INFO - 查询到信息科技管理系统信息，登录成功 
+2024-01-13 17:53:08,672 - file_logs - INFO - 强制睡眠等待 5 秒 
+2024-01-13 17:53:08,682 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@id="root"]/div/section/aside/div/ul/li[4]  
+2024-01-13 17:53:08,760 - file_logs - INFO - 这个元素软件集成已经被点击. 
+2024-01-13 17:53:10,774 - file_logs - INFO - 强制睡眠等待 2 秒 
+2024-01-13 17:53:15,784 - file_logs - INFO - 强制睡眠等待 5 秒 
+2024-01-13 17:53:15,795 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@class="ant-tabs-tabpane ant-tabs-tabpane-active"]/div/div[2]/div/div[1]/div/div[1]/div/div[2]/button  
+2024-01-13 17:53:18,105 - file_logs - INFO - 强制睡眠等待 2 秒 
+2024-01-13 17:53:23,108 - file_logs - INFO - 强制睡眠等待 5 秒 
+2024-01-13 17:53:23,118 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@class="ant-select-selection-item"]  
+2024-01-13 17:53:23,183 - file_logs - INFO - 这个元素轮播已经被点击. 
+2024-01-13 17:53:23,190 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@class="ant-select-selection-item"]  
+2024-01-13 17:56:00,804 - file_logs - INFO - 元素定位成功 ,by: id , value :userName  
+2024-01-13 17:56:00,804 - file_logs - INFO - 清除输入框 
+2024-01-13 17:56:00,927 - file_logs - INFO - 输入的值是：admin 
+2024-01-13 17:56:00,938 - file_logs - INFO - 元素定位成功 ,by: id , value :password  
+2024-01-13 17:56:00,939 - file_logs - INFO - 清除输入框 
+2024-01-13 17:56:01,007 - file_logs - INFO - 输入的值是：BanK2131 
+2024-01-13 17:56:01,017 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@id="rc-tabs-0-panel-account"]/div[3]/div[2]/img  
+2024-01-13 17:56:01,291 - file_logs - INFO - 元素定位成功 ,by: id , value :code  
+2024-01-13 17:56:01,291 - file_logs - INFO - 清除输入框 
+2024-01-13 17:56:01,347 - file_logs - INFO - 输入的值是：3kpf 
+2024-01-13 17:56:03,349 - file_logs - INFO - 强制睡眠等待 2 秒 
+2024-01-13 17:56:03,359 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@type="submit"]  
+2024-01-13 17:56:03,429 - file_logs - INFO - 这个元素登 录已经被点击. 
+2024-01-13 17:56:05,444 - file_logs - INFO - 强制睡眠等待 2 秒 
+2024-01-13 17:56:05,453 - file_logs - INFO - 元素定位成功 ,by id , value :logo  
+2024-01-13 17:56:05,453 - file_logs - INFO - 元素存在 
+2024-01-13 17:56:05,453 - file_logs - INFO - 查询到信息科技管理系统信息，登录成功 
+2024-01-13 17:56:10,460 - file_logs - INFO - 强制睡眠等待 5 秒 
+2024-01-13 17:56:10,470 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@id="root"]/div/section/aside/div/ul/li[4]  
+2024-01-13 17:56:10,536 - file_logs - INFO - 这个元素软件集成已经被点击. 
+2024-01-13 17:56:12,549 - file_logs - INFO - 强制睡眠等待 2 秒 
+2024-01-13 17:56:17,564 - file_logs - INFO - 强制睡眠等待 5 秒 
+2024-01-13 17:56:17,575 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@class="ant-tabs-tabpane ant-tabs-tabpane-active"]/div/div[2]/div/div[1]/div/div[1]/div/div[2]/button  
+2024-01-13 17:56:19,893 - file_logs - INFO - 强制睡眠等待 2 秒 
+2024-01-13 17:56:24,904 - file_logs - INFO - 强制睡眠等待 5 秒 
+2024-01-13 17:57:14,036 - file_logs - INFO - 元素定位成功 ,by: id , value :userName  
+2024-01-13 17:57:14,036 - file_logs - INFO - 清除输入框 
+2024-01-13 17:57:14,158 - file_logs - INFO - 输入的值是：admin 
+2024-01-13 17:57:14,169 - file_logs - INFO - 元素定位成功 ,by: id , value :password  
+2024-01-13 17:57:14,169 - file_logs - INFO - 清除输入框 
+2024-01-13 17:57:14,244 - file_logs - INFO - 输入的值是：BanK2131 
+2024-01-13 17:57:14,255 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@id="rc-tabs-0-panel-account"]/div[3]/div[2]/img  
+2024-01-13 17:57:14,549 - file_logs - INFO - 元素定位成功 ,by: id , value :code  
+2024-01-13 17:57:14,549 - file_logs - INFO - 清除输入框 
+2024-01-13 17:57:14,603 - file_logs - INFO - 输入的值是：ztco 
+2024-01-13 17:57:16,613 - file_logs - INFO - 强制睡眠等待 2 秒 
+2024-01-13 17:57:16,624 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@type="submit"]  
+2024-01-13 17:57:16,700 - file_logs - INFO - 这个元素登 录已经被点击. 
+2024-01-13 17:57:18,708 - file_logs - INFO - 强制睡眠等待 2 秒 
+2024-01-13 17:57:18,719 - file_logs - INFO - 元素定位成功 ,by id , value :logo  
+2024-01-13 17:57:18,719 - file_logs - INFO - 元素存在 
+2024-01-13 17:57:18,719 - file_logs - INFO - 查询到信息科技管理系统信息，登录成功 
+2024-01-13 17:57:23,727 - file_logs - INFO - 强制睡眠等待 5 秒 
+2024-01-13 17:57:23,737 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@id="root"]/div/section/aside/div/ul/li[4]  
+2024-01-13 17:57:23,805 - file_logs - INFO - 这个元素软件集成已经被点击. 
+2024-01-13 17:57:25,813 - file_logs - INFO - 强制睡眠等待 2 秒 
+2024-01-13 17:57:30,815 - file_logs - INFO - 强制睡眠等待 5 秒 
+2024-01-13 17:57:30,827 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@class="ant-tabs-tabpane ant-tabs-tabpane-active"]/div/div[2]/div/div[1]/div/div[1]/div/div[2]/button  
+2024-01-13 17:57:33,144 - file_logs - INFO - 强制睡眠等待 2 秒 
+2024-01-13 17:57:38,155 - file_logs - INFO - 强制睡眠等待 5 秒 
+2024-01-13 17:57:38,166 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@class="ant-select-selection-item" and @title="轮播"]  
+2024-01-13 17:57:38,228 - file_logs - INFO - 这个元素轮播已经被点击. 
+2024-01-13 17:57:38,236 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@class="ant-select-selection-item" and @title="轮播"]  
+2024-01-13 17:59:52,291 - file_logs - INFO - 元素定位成功 ,by: id , value :userName  
+2024-01-13 17:59:52,291 - file_logs - INFO - 清除输入框 
+2024-01-13 17:59:52,420 - file_logs - INFO - 输入的值是：admin 
+2024-01-13 17:59:52,432 - file_logs - INFO - 元素定位成功 ,by: id , value :password  
+2024-01-13 17:59:52,432 - file_logs - INFO - 清除输入框 
+2024-01-13 17:59:52,504 - file_logs - INFO - 输入的值是：BanK2131 
+2024-01-13 17:59:52,515 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@id="rc-tabs-0-panel-account"]/div[3]/div[2]/img  
+2024-01-13 17:59:52,780 - file_logs - INFO - 元素定位成功 ,by: id , value :code  
+2024-01-13 17:59:52,780 - file_logs - INFO - 清除输入框 
+2024-01-13 17:59:52,835 - file_logs - INFO - 输入的值是：znf5 
+2024-01-13 17:59:54,838 - file_logs - INFO - 强制睡眠等待 2 秒 
+2024-01-13 17:59:54,848 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@type="submit"]  
+2024-01-13 17:59:54,922 - file_logs - INFO - 这个元素登 录已经被点击. 
+2024-01-13 17:59:56,927 - file_logs - INFO - 强制睡眠等待 2 秒 
+2024-01-13 17:59:56,937 - file_logs - INFO - 元素定位成功 ,by id , value :logo  
+2024-01-13 17:59:56,938 - file_logs - INFO - 元素存在 
+2024-01-13 17:59:56,938 - file_logs - INFO - 查询到信息科技管理系统信息，登录成功 
+2024-01-13 18:00:01,954 - file_logs - INFO - 强制睡眠等待 5 秒 
+2024-01-13 18:00:01,964 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@id="root"]/div/section/aside/div/ul/li[4]  
+2024-01-13 18:00:02,031 - file_logs - INFO - 这个元素软件集成已经被点击. 
+2024-01-13 18:00:04,045 - file_logs - INFO - 强制睡眠等待 2 秒 
+2024-01-13 18:00:09,056 - file_logs - INFO - 强制睡眠等待 5 秒 
+2024-01-13 18:00:09,067 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@class="ant-tabs-tabpane ant-tabs-tabpane-active"]/div/div[2]/div/div[1]/div/div[1]/div/div[2]/button  
+2024-01-13 18:00:11,406 - file_logs - INFO - 强制睡眠等待 2 秒 
+2024-01-13 18:00:16,419 - file_logs - INFO - 强制睡眠等待 5 秒 
+2024-01-13 18:00:16,429 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@class="ant-select-selection-item" and @title="轮播"]  
