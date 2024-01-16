@@ -2,8 +2,10 @@ import unittest
 
 from selenium import webdriver
 
-from login_page import Login_Page
-from system_page import System_Page
+from xinfa_web.page.login_page import Login_Page
+from xinfa_web.page.system_page import System_Page
+
+
 class Test_System_Permissions(unittest.TestCase):
     def setUp(self) :
         self.driver=webdriver.Chrome()

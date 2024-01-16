@@ -1,7 +1,7 @@
 import time
 from webbrowser import Chrome
 
-import ddddocr
+
 from selenium import webdriver
 from selenium.webdriver import Keys
 from selenium.webdriver.support.expected_conditions import visibility_of

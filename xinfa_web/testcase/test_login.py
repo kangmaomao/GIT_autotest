@@ -1,12 +1,13 @@
 import unittest
 
+from ddt import ddt
 from parameterized import parameterized
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
-from unittestreport import ddt
 
-from login_page import Login_Page
-from utils import read_file
+from xinfa_web.page.login_page import Login_Page
+from xinfa_web.utils import read_file
+
 
 @ddt
 class Test_Login(unittest.TestCase):

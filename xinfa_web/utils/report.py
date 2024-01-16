@@ -3,7 +3,7 @@ import unittest
 import time
 from unittestreport import TestRunner
 
-from utils.send_report import new_reportname, send_email
+
 
 
 class Runing(object):

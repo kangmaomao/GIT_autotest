@@ -1,9 +1,12 @@
 import json
 import re
 
-from base_page import BasePage
+
 import xlrd
 import xlwt
+
+from xinfa_web.page.base_page import BasePage
+
 
 class Read_file(BasePage):
 

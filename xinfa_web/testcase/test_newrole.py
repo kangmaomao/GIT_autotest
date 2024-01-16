@@ -2,8 +2,10 @@ import unittest
 
 from selenium import webdriver
 
-from login_page import Login_Page
-from organizational_page_jigoulist import Organizational_Page_JigouList
+from xinfa_web.page.login_page import Login_Page
+from xinfa_web.page.organizational_page_jigoulist import Organizational_Page_JigouList
+
+
 class Test_Newrole(unittest.TestCase):
     def setUp(self) :
         self.driver=webdriver.Chrome()
