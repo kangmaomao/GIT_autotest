@@ -2,8 +2,8 @@ import unittest
 
 from selenium import webdriver
 
-from xinfa_web.page.login_page import Login_Page
-from xinfa_web.page.organizational_page_jigoulist import Organizational_Page_JigouList
+from xinfa.page.login_page import Login_Page
+from xinfa.page.organizational_page_jigoulist import Organizational_Page_JigouList
 
 
 class Test_Newrole(unittest.TestCase):

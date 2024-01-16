@@ -5,8 +5,8 @@ from parameterized import parameterized
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 
-from xinfa_web.page.login_page import Login_Page
-from xinfa_web.utils import read_file
+from xinfa.page.login_page import Login_Page
+from xinfa.utils import read_file
 
 
 @ddt

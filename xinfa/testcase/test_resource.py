@@ -3,8 +3,8 @@ from parameterized import parameterized
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 
-from xinfa_web.page.login_page import Login_Page
-from xinfa_web.page.resource_page import Resource_Page
+from xinfa.page.login_page import Login_Page
+from xinfa.page.resource_page import Resource_Page
 
 
 class Test_Resource(unittest.TestCase):

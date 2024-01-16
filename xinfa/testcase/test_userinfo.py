@@ -2,8 +2,8 @@ import unittest
 
 from selenium import webdriver
 
-from xinfa_web.page.dest_top_page import Dest_Top_Page
-from xinfa_web.page.login_page import Login_Page
+from xinfa.page.dest_top_page import Dest_Top_Page
+from xinfa.page.login_page import Login_Page
 
 
 class Test_Modity_Uesrinfo(unittest.TestCase):
