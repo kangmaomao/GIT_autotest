@@ -1,6 +1,5 @@
 import ddddocr as ddddocr
-from PIL import Image
-from pytesseract import pytesseract
+
 from selenium import webdriver
 
 import time

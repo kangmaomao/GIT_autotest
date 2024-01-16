@@ -3,8 +3,10 @@ import unittest
 from parameterized import parameterized
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
-from login_page import Login_Page
+
 from utils import read_file
+from xinfa_web.page.login_page import Login_Page
+
 
 class Test_Login(unittest.TestCase):
 
