@@ -1,5 +1,0 @@
-2023-11-29 15:33:42,758 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@class="text-my-3qpbA"]/div[1]  
-2023-11-29 15:33:42,759 - file_logs - ERROR - 鼠标移动到此元素上并点击失败 'ActionChains' object has no attribute 'element_click' 
-2023-11-29 15:33:42,929 - file_logs - INFO - 截图并保存到文件夹 : /screenshots 
-2023-11-29 15:35:01,622 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@class="text-my-3qpbA"]/div[1]  
-2023-11-29 15:37:06,712 - file_logs - INFO - 元素定位成功 ,by: xpath , value ://*[@class="text-my-3qpbA"]/div[1]  
