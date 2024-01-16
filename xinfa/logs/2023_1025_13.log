@@ -1,0 +1,20 @@
+2023-10-25 13:29:42,255 - logs - INFO - 元素定位成功 ,by: id , value :userName  
+2023-10-25 13:29:42,255 - logs - INFO - 清除输入框 
+2023-10-25 13:29:42,426 - logs - INFO - 输入的值是：test72 
+2023-10-25 13:29:42,439 - logs - INFO - 元素定位成功 ,by: id , value :password  
+2023-10-25 13:29:42,439 - logs - INFO - 清除输入框 
+2023-10-25 13:29:42,535 - logs - INFO - 输入的值是：BanK2131 
+2023-10-25 13:29:42,546 - logs - INFO - 元素定位成功 ,by: xpath , value ://*[@id="rc-tabs-0-panel-account"]/div[3]/div[2]/img  
+2023-10-25 13:29:43,018 - logs - INFO - 元素定位成功 ,by: id , value :code  
+2023-10-25 13:29:43,019 - logs - INFO - 清除输入框 
+2023-10-25 13:29:43,080 - logs - INFO - 输入的值是：oukq 
+2023-10-25 13:29:45,081 - logs - INFO - 强制睡眠等待 2 秒 
+2023-10-25 13:29:45,093 - logs - INFO - 元素定位成功 ,by: xpath , value ://*[@type="submit"]  
+2023-10-25 13:29:45,211 - logs - INFO - 这个元素登 录已经被点击. 
+2023-10-25 13:29:47,223 - logs - INFO - 强制睡眠等待 2 秒 
+2023-10-25 13:29:47,234 - logs - INFO - 元素定位成功 ,by id , value :logo  
+2023-10-25 13:29:47,235 - logs - ERROR - 元素不存在 
+2023-10-25 13:29:47,235 - logs - INFO - 没有查询到信息科技管理系统信息，登录失败 
+2023-10-25 13:29:47,245 - logs - INFO - 元素定位成功 ,by: xpath , value ://*[@class="ant-message-notice-content"]/div  
+2023-10-25 13:29:47,252 - logs - INFO - 账号密码错误，退出 
+2023-10-25 13:29:49,845 - logs - INFO - 关闭浏览器 
