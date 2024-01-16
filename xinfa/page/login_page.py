@@ -1,12 +1,5 @@
-import time
-from webbrowser import Chrome
-
 import ddddocr
-from selenium import webdriver
-from selenium.webdriver import Keys
-from selenium.webdriver.support.expected_conditions import visibility_of
-
-from base_page import BasePage
+from xinfa.page.base_page import BasePage
 from xinfa.utils import loggers
 
 # 创建logger实例

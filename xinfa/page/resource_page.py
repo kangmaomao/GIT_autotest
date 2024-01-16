@@ -2,7 +2,7 @@ import os
 
 from selenium.webdriver.support.select import Select
 
-from base_page import BasePage
+from xinfa.page.base_page import BasePage
 
 
 class Resource_Page(BasePage):

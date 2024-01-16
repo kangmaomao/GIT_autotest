@@ -1,4 +1,4 @@
-from base_page import BasePage
+from xinfa.page.base_page import BasePage
 
 class Dest_Top_Page(BasePage):
     def first_page(self):

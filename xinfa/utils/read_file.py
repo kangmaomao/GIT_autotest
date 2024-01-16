@@ -5,7 +5,7 @@ import re
 import xlrd
 import xlwt
 
-from xinfa_web.page.base_page import BasePage
+from xinfa.page.base_page import BasePage
 
 
 class Read_file(BasePage):

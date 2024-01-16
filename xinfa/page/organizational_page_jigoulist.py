@@ -1,6 +1,6 @@
 from selenium.webdriver.support.select import Select
 
-from base_page import BasePage
+from xinfa.page.base_page import BasePage
 
 
 class Organizational_Page_JigouList(BasePage):

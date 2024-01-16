@@ -1,4 +1,4 @@
-from base_page import BasePage
+from xinfa.page.base_page import BasePage
 
 class System_Page(BasePage):
     def new_sys(self):
